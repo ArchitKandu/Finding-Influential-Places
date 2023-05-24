@@ -1,9 +1,9 @@
-## Finding-Influential-Places
+# Finding-Influential-Places
 
-# Shapley Value
+## Shapley Value
 The Shapley Value is based on the notion that a player's contribution to a game is influenced by both their own talents and abilities as well as those of the other players. As a result, the Shapley Value accounts for all potential entry points into the game and distributes the entire payment among the participants according to their individual contributions. The only mapping that meets the three fundamental qualities of linearity, symmetry, and carrier property is the Shapley value. The three features suggest that the Shapley value offers a just method of dividing the benefits of cooperative play among the game's participants. The Shapley Value's fairness and equity in distributing the entire payout among players is one of its advantages. It takes into account the individual contributions of each player and ensures that each player is compensated for their contribution to the game. The Shapley Value has a drawback in that it presumes that all actors have equal bargaining power, which may not always be the case in actual situations.
 
-# Top-K Nodes
+## Top-K Nodes
 In contrast, "top-k nodes" refers to the idea of locating the k nodes in a network that have the highest ratings based on a specific criteria. Depending on the application, the ranking metric for nodes might vary, although it is frequently based on the notion of centrality, which gauges a node's significance or impact within a network. Finding the top-k nodes in a network can be used for a variety of purposes, such as finding important individuals in a social network, seeing prospective leaders inside a company, or finding crucial infrastructure nodes in a transportation or communication network. It is crucial to remember that the particular application and context will determine the choice of metric and the value of k. In some situations, it might be more acceptable to focus on the top 10 nodes, whilst in others, a higher or lower number of k might be required to include the network's most crucial nodes.
 
-The aim of this algorithm is to calculate the Shapley values for each images in real time.
+The Shapley Value computation algorithm is provided in app.ipynb along with a demonstration dataset of 10 values. The Top-k value identification is provided on the top-k.ipynb file. It shows the algorithm in Python Programming Language. 
